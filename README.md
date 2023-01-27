@@ -1,4 +1,4 @@
-## Hello, there
+## Hello, there. I'm Means
 
 ### Sotfware Engineer
 - 👨‍💻 Currently mostly into webapps
