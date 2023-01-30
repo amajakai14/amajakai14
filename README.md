@@ -12,7 +12,6 @@
   <a href="https://trpc.io" style="padding-left:1rem; padding-right:1rem;"><img src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" width="48" height="48" alt="tRPC"/></a>
   <a href="https://www.tailwindcss.com" style="padding-left:1rem; padding-right:1rem;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" /></a>
   <a href="https://prisma.io" style="padding-left:1rem; padding-right:1rem;"><img src="https://www.prisma.io/images/favicon-32x32.png" width="48" height="48" alt="Prisma" /></a>
-  <a href="https://planetscale.com" style="padding-left:1rem; padding-right:1rem;"><img src="https://avatars.githubusercontent.com/u/35612527?s=200&v=4" width="48" height="48" alt="PlanetScale" /></a>
 </div>
 
 ### My Stat
